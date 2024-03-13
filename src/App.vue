@@ -9,4 +9,4 @@ export default {
     TaskList
   }
 }
-</script>./components/TaskList.vue
+</script>
